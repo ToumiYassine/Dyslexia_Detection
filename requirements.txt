@@ -1,0 +1,7 @@
+abydos
+azure-cognitiveservices-vision-computervision
+language-tool-python
+Pillow
+textblob
+streamlit
+streamlit-lottieclea
